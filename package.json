@@ -1,0 +1,17 @@
+{
+  "name": "leadsift",
+  "version": "1.8.0",
+  "description": "LeadSift – Smart Inquiry Filter for WordPress. Sorts form inquiries into Genuine, Promotional and Spam.",
+  "author": "Rajvardhan Singh Rathore",
+  "license": "GPL-2.0-or-later",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "watch": "node scripts/build.mjs --watch",
+    "zip": "node scripts/build.mjs && node scripts/zip.mjs",
+    "version:bump": "node scripts/bump-version.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.24.2"
+  }
+}

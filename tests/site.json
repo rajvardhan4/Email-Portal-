@@ -1,0 +1,7 @@
+[
+  { "id": "SITE1", "expect": "promotional", "name": "John Marketing", "email": "marketingpromo@example.com", "phone": "8002581502", "message": "We can get your website to the firstsds page of Google within 7 days. Reply now for our special SEO package!", "extra": "Kerasilk smoothing treatment" },
+  { "id": "SITE2", "expect": "spam", "name": "asad", "email": "raj@gmial.com", "phone": "900234915", "message": "sdfsd", "extra": "Kerasilk smoothing treatment" },
+  { "id": "SITE3", "expect": "spam", "name": "swewew", "email": "ewew@gmail.com", "phone": "892232322", "message": "fd", "extra": "Haircut & style" },
+  { "id": "SITE4", "expect": "spam", "name": "raj", "email": "sa@info.com", "phone": "ssd22222", "message": "seds", "extra": "Something else" },
+  { "id": "SITE5", "expect": "promotional", "name": "5", "email": "you@info.com", "phone": "4445558888", "message": "Hi, I was checking your website and noticed it is not ranking on the first page of Google. We are a leading SEO agency and can help you get more organic traffic.", "extra": "Hair extensions" }
+]
